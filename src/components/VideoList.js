@@ -9,7 +9,7 @@ const VideoList = ({videos, onVideoSelect}) => {
 
 
         return (
-            <div style={{width: "30vw"}, {marginLeft: "1em"}}> {listToRender} </div>
+            <div style={{width: "30vw", marginLeft: "1em"}}> {listToRender} </div>
         )
 
 }
